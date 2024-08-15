@@ -91,8 +91,8 @@ html {
   --image-height: 140px;
 
   /* You can change the colors of the title and description section by typing the color codes. */
-  --title-color: #fff;
-  --description-color: #fff;
+  --title-color: #000;
+  --description-color: #000;
 
   /* You can change the colors of social media icons by changing the color code. */
   --svg-color: #000;
@@ -134,7 +134,7 @@ html {
 body {
   min-height: 100vh;
   font-family: var(--font-family) !important;
-  background: linear-gradient(180deg, rgba(90, 99, 156, 1) 0%, rgba(119, 118, 179, 1) 46%, rgba(155, 134, 189, 1) 72%, rgba(226, 187, 233, 1) 100%);
+  background: linear-gradient(167.983deg, #FFB3BA 0%, #FFDFBA 20%, #FFFFBA 40%, #BAFFC9 60%, #BAE1FF 80%, #E1BAFF 100%);
   color: var(--title-color);
   background-position: center;
   background-repeat: no-repeat;
@@ -196,10 +196,9 @@ h1 {
 p {
   color: var(--description-color);
   font-size: 1.2em;
-  line-height: 1em;
+  line-height: 1.2em;
   font-weight: 300;
   margin-bottom: 10px;
-  letter-spacing: 0.1rem;
 }
 
 .badge {

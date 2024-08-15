@@ -119,11 +119,11 @@
   display: inline-block;
   transition-duration: 0.3s;
   transform: translateZ(0);
-  box-shadow: 0 0 1px rgba(3, 218, 198, 30%);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
 }
 
 .button:hover {
-  box-shadow: 0 0 6px rgba(3, 218, 198, 30%);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
 }
 
 /* Brand Icons
