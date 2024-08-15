@@ -8,7 +8,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 - Theme Author: nekosheen
 - Theme Author URI: https://github.com/nekosheen
 - Theme License: MIT
-- Source code: https://github.com/nekosheen/Soothing
+- Source code: https://github.com/nekosheen/Rainbow
 
 ### Used assets:
 
